@@ -1,4 +1,4 @@
-# React Toast Popup
+# [React Toast Popup](https://www.npmjs.com/package/react-toast-alerts-nikhil?activeTab=readme)
 
 React Toast Popup is a simple and customizable toast notification component for React applications
 
