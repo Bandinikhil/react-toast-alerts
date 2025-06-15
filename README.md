@@ -10,6 +10,8 @@ You can install React Toast Popup via npm:
 npm install react-toast-alerts
 ```
 
+![alt text](image.png)
+
 ## Usage
 
 To use React Toast Popup in your React application, follow these steps:
